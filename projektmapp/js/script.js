@@ -14,7 +14,7 @@ if(event.key == "a"){
 
 
 
-// play music on M key
+/* play music on M key
 
 const audio = document.createElement("audio")
 audio.src = "filer/PortalRadio.ogg" ;
@@ -25,7 +25,27 @@ musicbutton.addEventListener("click", playmusic);
 
 function playmusic(){
     audio.play();
-    
-    
-}
+    }
+    */
+
+
+
+const audio = document.createElement("audio");
+audio.src = "filer/PortalRadio.ogg";
+
+
+
+document.addEventListener("keydown", (event) => {
+    if (event.key == "m") {
+        audio.play();
+    }
+});
+
+
+
+
+
+
+
+
 
