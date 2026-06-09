@@ -1,0 +1,271 @@
+.keyboard{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    border: black solid;
+    flex-wrap: wrap;
+    font-size: xx-large;
+    padding: 135px;
+    margin: auto;
+    background-color: gray;
+    border-radius: 30%;
+}
+
+.q{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 25%;
+    background-color: white;
+}
+
+.w{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.e{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.r{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.t{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.y{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.u{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.i{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.o{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+    
+}
+
+.p{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+
+
+
+
+.row1,
+.row2,
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+
+.a{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.s{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.d{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.f{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.g{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.h{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.j{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.k{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.l{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.ö{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.ä{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.z{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.x{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.c{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.v{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.b{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.n{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.m, ö{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.space{
+    display: flex;
+    border: black solid;
+    width: 350px;
+    height: 50px;
+    justify-content: center;
+     border-radius: 25%;
+    background-color: white;
+}
+
+.ö{
+    border: black solid;
+    padding: 10px;
+    margin: 5px;
+     border-radius: 25%;
+    background-color: white;
+    text-align: center;
+}
