@@ -1,5 +1,5 @@
 
-//turns the A key red when A key is held down
+//turns the A key red when A key is held down nvm
 document.addEventListener("keydown", (event) => {
 
 let pressedKey = event.key.toLowerCase(); 
